@@ -1,4 +1,4 @@
-# Unified Image Processing Pipeline
+# Mini Unified Image Processing Pipeline
 
 This repository documents a single MATLAB script that combines color edge visualization, threshold-based sectorization, and a classic grayscale enhancement pipeline with an optional frequency-domain low-pass filter. The goal is to show how pointwise operations, spatial filtering, gradient-based edge detection, labeling, and FFT-based filtering fit together in a coherent flow.
 
